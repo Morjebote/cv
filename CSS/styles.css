@@ -1,0 +1,34 @@
+body {
+  font-family: "Century Gothic";
+  color: white;
+  background-color: #595260;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #FFD523;
+  width: 5%;
+}
+
+h1 {
+  color: #FFD523;
+}
+
+h3 {
+  color: #1B1A17;
+}
+
+/*link colors*/
+a:link {
+  color: #FFD523;
+}
+a:visited {
+  color: #FFD523;
+}
+a:hover {
+  color: #B2B1B9;
+}
+a:active {
+  color: #1B1A17;
+}
